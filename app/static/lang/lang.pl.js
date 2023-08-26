@@ -140,7 +140,7 @@ export const lang = {
   helpMenuTitle: { text: 'Pomoc' },
   goToHelpPage: { text: 'Strony pomocy mei-friend' },
   showChangelog: { text: 'Pokaż dziennik zmian mei-friend' },
-  goToGuidelines: { text: 'Pokaż Wytyczne MEI' },
+  goToGuidelines: { text: 'Pokaż Wytyczne dla MEI' },
   consultGuidelinesForElementText: { text: 'Sprawdź Wytyczne dla bieżącego elementu' },
   provideFeedback: { text: 'Daj opinię' },
   resetDefault: { text: 'Przywróć ustawienia domyślne' },
